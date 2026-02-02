@@ -1,0 +1,3 @@
+This project titled Online Banking System provides
+a secure and efficient way for customers to perform
+banking operations online.
